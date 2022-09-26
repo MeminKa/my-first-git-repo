@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a8a0ea0-215d-4091-9c33-96da3cd32f44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EighthJavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeventhJavaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SixthJavaClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
